@@ -4,15 +4,21 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c0b49042-31c0-4ad9-9d58-b6e93af2366a" name="Changes" comment="Lab2,Task2,email,secondattempt">
-      <change afterPath="$PROJECT_DIR$/task3.py" afterDir="false" />
+    <list default="true" id="c0b49042-31c0-4ad9-9d58-b6e93af2366a" name="Changes" comment="Lab2,Task3,tracing">
+      <change afterPath="$PROJECT_DIR$/task4.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -34,6 +40,7 @@
     "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "Python.main.executor": "Run",
     "Python.task3.executor": "Debug",
+    "Python.task4.executor": "Debug",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
@@ -77,12 +84,21 @@
       <option name="project" value="LOCAL" />
       <updated>1775840790576</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Lab2,Task3,tracing">
+      <option name="closed" value="true" />
+      <created>1775842353722</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1775842353722</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Lab2,Task2,email" />
     <MESSAGE value="Lab2,Task2,email,secondattempt" />
-    <option name="LAST_COMMIT_MESSAGE" value="Lab2,Task2,email,secondattempt" />
+    <MESSAGE value="Lab2,Task3,tracing" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lab2,Task3,tracing" />
   </component>
 </project>
